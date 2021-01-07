@@ -1,0 +1,31 @@
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.main-content{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    background-color: lightgrey;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+.justice{
+    border: 1px solid;
+}
+
+.footer-2{
+    display: flex;
+    justify-content: flex-end;
+}
+.footer-3{
+    display: flex;
+}
